@@ -1,5 +1,5 @@
 @media only  screen and (max-width:600px){
     .gombok{
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr !important;
     }
 }
